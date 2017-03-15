@@ -1,0 +1,17 @@
+/ipch/
+/Debug/
+/Graham_scan/Debug
+
+
+# ASM files
+*.asm
+
+# other files
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.user
+
